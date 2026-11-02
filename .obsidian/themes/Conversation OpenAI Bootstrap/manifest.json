@@ -1,0 +1,8 @@
+{
+  "name": "Conversation OpenAI Bootstrap",
+  "version": "0.2.0",
+  "minAppVersion": "1.0.0",
+  "author": "Community Bootstrap",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
