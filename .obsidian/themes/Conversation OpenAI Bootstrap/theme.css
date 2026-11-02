@@ -1,0 +1,4 @@
+/* OpenAI-inspired Obsidian bootstrap theme — independent, unofficial */
+.theme-dark { --background-primary:#202123; --background-secondary:#2b2c30; --text-normal:#ececec; --interactive-accent:#10a37f; }
+.theme-light { --background-primary:#ffffff; --background-secondary:#f7f7f8; --text-normal:#242424; --interactive-accent:#10a37f; }
+.markdown-preview-view { line-height:1.65; }
