@@ -1,0 +1,4 @@
+.callout[data-callout='assistant'],.callout[data-callout='user'] { border:0; border-radius:16px; padding:12px 16px; max-width:85%; }
+.callout[data-callout='assistant'] { background:var(--background-secondary); margin-right:auto; }
+.callout[data-callout='user'] { background:var(--background-modifier-hover); margin-left:auto; }
+.callout[data-callout='assistant'] .callout-icon,.callout[data-callout='user'] .callout-icon { display:none; }
