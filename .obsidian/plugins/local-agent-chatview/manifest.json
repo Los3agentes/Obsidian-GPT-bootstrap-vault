@@ -1,0 +1,9 @@
+{
+  "id": "local-agent-chatview",
+  "name": "Local Agent Chat View",
+  "version": "0.2.0",
+  "minAppVersion": "1.0.0",
+  "description": "Experimental chat callout insertion commands",
+  "author": "Community Bootstrap",
+  "isDesktopOnly": false
+}
